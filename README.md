@@ -1,6 +1,8 @@
 ![pausestack](https://github.com/user-attachments/assets/73730a12-4f31-496a-ba0c-87beea4f40a9)
 
-> I found myself building up the same boilerplate for projects over and over again. So I decided to make a template for myself to use. Maybe it'll help you too.
+
+
+> ⚠️ This Template is deprecated and maintained. Don't use it.
 
 ## Features
 
